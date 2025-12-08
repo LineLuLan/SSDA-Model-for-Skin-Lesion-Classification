@@ -30,8 +30,10 @@ To run the `Demonstration.ipynb` and verify our findings, please follow these st
 4.  **Run All:** Execute all cells in the notebook from top to bottom. The final accuracy and classification reports for all three models will be printed at the end.
 
 ## Testing Online
-Train: https://www.kaggle.com/code/lineizumi/training-and-development
+**Train**: https://www.kaggle.com/code/lineizumi/training-and-development
 
-Demo result: https://www.kaggle.com/code/lineizumi/demonstration
+**Demo result**: https://www.kaggle.com/code/lineizumi/demonstration
 
-Dataset: https://www.kaggle.com/datasets/lineizumi/it159-final-checkpoints
+**Checkpoints Dataset**: https://www.kaggle.com/datasets/lineizumi/it159-final-checkpoints
+
+**HAM10000 Dataset**: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000 (Original Data)
