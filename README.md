@@ -31,5 +31,7 @@ To run the `Demonstration.ipynb` and verify our findings, please follow these st
 
 ## Testing Online
 Train: https://www.kaggle.com/code/lineizumi/training-and-development
+
 Demo result: https://www.kaggle.com/code/lineizumi/demonstration
+
 Dataset: https://www.kaggle.com/datasets/lineizumi/it159-final-checkpoints
